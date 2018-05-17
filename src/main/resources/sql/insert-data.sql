@@ -1,0 +1,2 @@
+INSERT INTO country(id, iso_code, name, printable_name, iso3, numcode, version) VALUES (1000, 'AF','AFGHANISTAN','Afghanistan','AFG','004', 1)
+INSERT INTO country(id, iso_code, name, printable_name, iso3, numcode, version) VALUES (1001, 'AL','ALBANIA','Albania','ALB','008', 1)
